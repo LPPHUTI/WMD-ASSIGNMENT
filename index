@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Glade Cinema</title>
+<meta charset="utf=8">
+<style>
+#heading{
+color: red;
+}
+</style>
+</head>
+<div id="divcontainer">
+<h2 id="">
+</html>
